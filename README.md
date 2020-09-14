@@ -1,6 +1,6 @@
 # login-sefaz
 
--Descrição: API desenvolvida com Spring, usando Hibernate/JPA para persistência de dados, JSP para interface, e JWT para autenticação de login usando token de acesso.
+-Descrição: API para o Desafio Sefaz, desenvolvida com Spring, usando Hibernate/JPA para persistência de dados, JSP para interface, e JWT para autenticação de login usando token de acesso.
 
 (Projeto em desenvolvimento/teste)
 
