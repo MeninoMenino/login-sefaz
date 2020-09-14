@@ -16,6 +16,6 @@ Efetuar login - Autentica os dados enviados e acessa o painel principal (a auten
 
 Listar usuários - Lista todos os usuários do sistema.
 
-Akterar dados - Altera os dados do usuário logado.
+Alterar dados - Altera os dados do usuário logado (em desenvolvimento).
 
-Deletar dados - Deleta o registro do usuário logado.
+Deletar dados - Deleta o registro do usuário logado (em desenvolvimento).
